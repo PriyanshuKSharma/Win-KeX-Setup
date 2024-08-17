@@ -1,0 +1,3 @@
+First install Kali-Linux WSL:
+  wsl --install kali-linux
+
