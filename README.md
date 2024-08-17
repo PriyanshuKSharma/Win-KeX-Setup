@@ -15,8 +15,6 @@ Welcome to the Win-KeX Setup Guide! This repository is dedicated to helping user
    - [Configuring Windows Terminal](#configuring-windows-terminal)
 6. [Troubleshooting](#troubleshooting)
 7. [Help and Resources](#help-and-resources)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
