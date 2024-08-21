@@ -1,3 +1,4 @@
 First install Kali-Linux WSL:
   wsl --install kali-linux
-
+  sudo apt update && sudo apt upgrade -y
+  sudo apt install -y kali-win-kex
